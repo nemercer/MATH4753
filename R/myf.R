@@ -5,7 +5,7 @@
 #' @param x
 #' @param coef
 #'
-#' @return piece wise regression function
+#' @return piece wise regression function y given x
 #' @export
 #'
 #' @examples
